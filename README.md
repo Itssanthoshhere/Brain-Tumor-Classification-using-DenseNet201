@@ -14,7 +14,6 @@ This project implements a deep learning model using the DenseNet201 architecture
 - [🏗 Model Architecture](#model-architecture)
 - [📊 Results](#results)
 - [💡 Acknowledgements](#acknowledgements)
-- [📊 Dataset](#dataset)
 - [🔍 Check out the code](#check-out-the-code)
 
 ## 📦 Libraries Used
@@ -27,6 +26,8 @@ This project implements a deep learning model using the DenseNet201 architecture
 - **🔍 Scikit-Learn**: Model evaluation and data splitting
 
 ## 🗂 Dataset
+
+We’re working with the [Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset) – a treasure of brain tumor MRI dataset! 
 
 The dataset used in this project contains MRI images categorized into four classes:
 1. **🧠 No Tumor**
@@ -70,10 +71,6 @@ The model is evaluated on the testing dataset using accuracy, confusion matrix, 
 - **📄 Dataset**: The brain tumor MRI images were sourced from a labeled dataset designed for classification tasks.
 - **🛠 Libraries**: The project utilizes powerful libraries like TensorFlow, Keras, Pandas, NumPy, and Matplotlib.
 - **💭 Inspiration**: This project is inspired by various medical imaging and deep learning research efforts aimed at improving diagnostic accuracy.
-
-## 📊 Dataset
-
-We’re working with the [Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset) – a treasure of brain tumor MRI dataset! 
 
 ## 🔍 Check out the code
 
