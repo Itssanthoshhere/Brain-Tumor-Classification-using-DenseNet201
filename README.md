@@ -1,4 +1,4 @@
-# 🧠 Brain Tumor Classification Using DenseNet201: A Deep Learning Approach 🚀
+# 🧠 Brain Tumor MRI Classification Using DenseNet201: A Deep Learning Approach 🚀
 
 ---
 
@@ -14,6 +14,7 @@ This project implements a deep learning model using the DenseNet201 architecture
 - [🏗 Model Architecture](#model-architecture)
 - [📊 Results](#results)
 - [💡 Acknowledgements](#acknowledgements)
+- [Dataset](#dataset)
 - [🔍 Check out the code](#check-out-the-code)
 
 ## 📦 Libraries Used
@@ -70,9 +71,13 @@ The model is evaluated on the testing dataset using accuracy, confusion matrix, 
 - **🛠 Libraries**: The project utilizes powerful libraries like TensorFlow, Keras, Pandas, NumPy, and Matplotlib.
 - **💭 Inspiration**: This project is inspired by various medical imaging and deep learning research efforts aimed at improving diagnostic accuracy.
 
+## 📊 Dataset
+
+We’re working with the [Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset) – a treasure of brain tumor MRI dataset! 
+
 ## 🔍 Check out the code
 
-Explore the complete code and all project details on my GitHub: [Brain Tumor Classification Project](https://github.com/Itssanthoshhere/Brain-Tumor-Classification-using-DenseNet201).
+Explore the complete code and all project details on my GitHub: [Brain Tumor Classification Project](https://github.com/Itssanthoshhere/Brain-Tumor-MRI-Classification-using-DenseNet201). 
 
 ## 👨‍💻 Author
 
