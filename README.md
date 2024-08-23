@@ -74,7 +74,7 @@ The model is evaluated on the testing dataset using accuracy, confusion matrix, 
 
 ## 🔍 Check out the code
 
-Explore the complete code and all project details on my GitHub: [Brain Tumor Classification Project](https://github.com/Itssanthoshhere/Brain-Tumor-MRI-Classification-using-DenseNet201). 
+Explore the complete code and all project details on my GitHub: [Brain Tumor MRI Classification Project](https://github.com/Itssanthoshhere/Brain-Tumor-MRI-Classification-using-DenseNet201). 
 
 ## 👨‍💻 Author
 
