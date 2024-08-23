@@ -14,7 +14,7 @@ This project implements a deep learning model using the DenseNet201 architecture
 - [🏗 Model Architecture](#model-architecture)
 - [📊 Results](#results)
 - [💡 Acknowledgements](#acknowledgements)
-- [Dataset](#dataset)
+- [📊 Dataset](#dataset)
 - [🔍 Check out the code](#check-out-the-code)
 
 ## 📦 Libraries Used
